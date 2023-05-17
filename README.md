@@ -1,2 +1,1 @@
-# veeflutter
-children's home donation app in flutter
+This is a donation application created using the Dart programming language that allows donors to make donations to various children's homes easily. The donors place their donations at various pick up centers where they will later on be picked by the staff or workers or any representative of the target children's home. The director/owner a Childrens home will be notified incase a donation is made to their Children's home so that they can pick up the donation.
